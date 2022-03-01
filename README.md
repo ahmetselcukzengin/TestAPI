@@ -1,7 +1,6 @@
 # TestAPI
 GET: SehirBazliAnalizYap
 ![image](https://user-images.githubusercontent.com/73847397/156242742-12ba4ddc-8d9e-4da8-9a3f-f78089fc5f14.png)
-![image](https://user-images.githubusercontent.com/73847397/156244033-61adec0c-90ef-4e56-aa34-05427a5dc674.png)
 [
     {
         "sehirAdi": "Diyarbakır",
@@ -49,3 +48,5 @@ GET: SehirBazliAnalizYap
         "toplamTutar": 3211.00
     }
 ]
+![image](https://user-images.githubusercontent.com/73847397/156244033-61adec0c-90ef-4e56-aa34-05427a5dc674.png)
+
