@@ -1,6 +1,8 @@
 # TestAPI
 GET: SehirBazliAnalizYap
 ![image](https://user-images.githubusercontent.com/73847397/156242742-12ba4ddc-8d9e-4da8-9a3f-f78089fc5f14.png)
+![image](https://user-images.githubusercontent.com/73847397/156242965-d67a3aba-bbb0-4a34-a5c9-16815c0e87f5.png)
+
 [
     {
         "sehirAdi": "Diyarbakır",
