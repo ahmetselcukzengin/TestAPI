@@ -47,6 +47,6 @@ GET: SehirBazliAnalizYap
         "sepetAdet": 2,
         "toplamTutar": 3211.00
     }
-]
+] </br>
 ![image](https://user-images.githubusercontent.com/73847397/156244033-61adec0c-90ef-4e56-aa34-05427a5dc674.png)
 
